@@ -1,0 +1,2 @@
+  class gender age sibsp parch fare    embarked
+1   1st   male   8     0     0   72 Southampton
