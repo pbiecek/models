@@ -1,0 +1,2 @@
+  class gender age sibsp parch fare  embarked
+1   1st   male  47     0     0   25 Cherbourg
